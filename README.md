@@ -7,15 +7,17 @@
 UX designers value user feedback highest. The user's word is the gold standard. But we often overlook the greatest source of user feedback: social media. In ignoring the 'collective knowledge' of their user group and by not being able to listen to their UI complaints online, UX designers miss out on important insights.
 
 ## The Solution
-Using machine learning for social media analysis, we mine existing user feedback (user reviews, tweets, etc) about a product available on social media sites like Twitter, Facebook, Instagram to recommend UX/UI design changes.
+Using machine learning for social media analysis, we mine existing user feedback (user reviews, tweets, etc) about a product available on social media sites like Twitter, Facebook, Instagram to recommend UX/UI design changes. This gives the UX designer continuous and direct feedback from their actual users, and our analysis recommends changes to the design.
 
 ## The Framework
 We use the below framework to measure our product's UX from online reviews posted to social media.
 <img src="https://raw.githubusercontent.com/standard-deviant/ai4ux/main/hexagon.jpeg">
 
 
-
-
+## Process (UML diagram - flow of data across system)
+## The Data
+## The Analysis
+## The Insights
 
 ## Impact to Society of Solution:
 | Problems in rural microfinance | How our project solves them |
