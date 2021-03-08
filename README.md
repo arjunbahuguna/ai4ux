@@ -21,7 +21,7 @@ We use the below framework to measure our product's UX from online reviews poste
 | Secure | Permission, Location, Data, Confidence, Reliable, ... |                                     
 | Usability | Consistent, Completion, Informing, Navigation, ... |
 
-## Process (UML diagram - flow of data across system)
+# Process
 ## The Data
 The users' feedback has been sourced from Twitter & App store reviews for this prototype, but can be sourced from any social media or app platform we want. The text data from the tweets contain words that can trigger one of the seven prongs of our UX framework. By mapping the text data of the tweet to our framework, we can evaluate the UX of the product.
 
