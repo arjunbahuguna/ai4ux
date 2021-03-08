@@ -40,60 +40,28 @@ Gain a measure of user satisfaction from the tweet by algorithmically measuring 
 
 
 
-#### Peer Pressure on the blockchain (main innovation)
-Solidarity lending (peer pressure and mutual accountability to repaying loans) is an building block of rural microfinance. But in a pan-India digital network, this peer-pressure would be minimised. We achieve peer-pressure on a peer-to-peer network by using a novel accountability solution, as described below.
-A new member on the network can only be added once his Aadhar identity been physically **validated by 4 pre-existing nodes on the network**. If the person defaults, the four people responsibility for him are required to either make him pay or split his debt. This roots the digital network in physical space, and simulates the same social pressure necessary for solidarity lending groups.
-
-### Zero-Interest loans
-This is made possible by removing traditional banks from the equation. The group pools money internally and acts as a seed-funding co-operative, every three months.
-
-
 ## Architecture and Tech-stack
-
 ![System Architecture](https://raw.githubusercontent.com/jangidkrishna/0xSHG/master/architecture.jpg)
 
 
 ### Architecture Modules
-##### 1. Collect User Feedback from tweets
+#### 1. Collect User Feedback from tweets
 Initial members of the network call add_member to add a new person to the network, once they've validated his identity using Aadhar.
-##### 2. Analyze feedback to evaluate UX
+#### 2. Analyze feedback to evaluate UX
 The newly added member must deposit money to the pool to be able to request a loan.
-##### 3. Suggest changes in UX
-A person can request a loan if 
-  1. He has been validated by 4 existing members
-  2. He has deposited some amount of money
+#### 3. Gain insights in the form of graphs
+
+#### 4. Suggest changes in UX according to user feedback
+
 
 ### Tech Stack
-1. Ethereum smart constracts (in solidity)
-2. Ropsten testnet  
-3. Truffle framework
+1. 
+2.   
+3. 
 4. MetaMask
 5. Remix IDE
 6. Web3.js
 7. Aadhar-validator.js
-
-
-##### Steps to compile in Truffle
-1. git clone https://github.com/SatoshiNextTechLab/0xSHG/
-2. truffle compile
-3. truffle migrate
-4. truffle console
-5. Interact using Web3.js
-
-
-##### Steps to compile GUI
-1. clone repo https://github.com/SatoshiNextTechLab/0xSHG/
-2. cd into 0xSHG-master/GUI
-2. npm install .
-3. bower install
-4. gulp serve
-
-##### Steps to interact and test quickly on Remix with MetaMask
-1. go to https://remix.ethereum.org/
-2. Ensure MetaMask is setup and connected to Ropsten Network
-3. load the SmartContract at https://github.com/SatoshiNextTechLab/0xSHG/blob/master/contracts/driver1.sol
-4. Compile the contract, move to tab run.
-5. In load contract address enter `0x60a5a1971d1c66D754C6Fbfac17DD1EBe6BAdcef`.Hit At Address button.
 
 ### The Team
 1. Daksha Dixit
