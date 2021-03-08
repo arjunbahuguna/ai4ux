@@ -12,7 +12,14 @@ Using machine learning for social media analysis, we mine existing user feedback
 ## The Framework
 We use the below framework to measure our product's UX from online reviews posted to social media.
 <img src="https://raw.githubusercontent.com/standard-deviant/ai4ux/main/hexagon.jpeg">
-
+## Implementing the Framework on Social Media User Feedback:
+| UX Framework Attribute | Words to look out for in user feedback |
+| --- | --- |
+| Useful | Understandable, Consistent, Error, Approachable, ... |
+| Desirable | Appropriate, Efficient, Truthful, Engaging, ... |
+| Accessible | Disability, Visibility, Read Aloud, Difficult, ... |
+| Secure | Permission, Location, Data, Confidence, Reliable, ... |                                     
+| Usability | Consistent, Completion, Informing, Navigation, ... |
 
 ## Process (UML diagram - flow of data across system)
 ## The Data
@@ -20,22 +27,17 @@ The users' feedback has been sourced from Twitter & App store reviews for this p
 
 ## The Analysis
 We use multiple analysis techniques from natural language processing (NLP) and supervised machine learning to do analysis on user tweets. Some of these techniques include:
-### 1. Sentiment analysis: Gain a measure of user satisfaction from the tweet by algorithmically measuring how positive or negative the sentiment of the tweet is.
-### 2. 
-### 3. 
-### 4. 
+#### 1. Sentiment analysis
+Gain a measure of user satisfaction from the tweet by algorithmically measuring how positive or negative the sentiment of the tweet is.
+#### 2. 
+#### 3. 
+#### 4. 
 
 ## The Insights
 
-## Impact to Society of Solution:
-| Problems in rural microfinance | How our project solves them |
-| --- | --- |
-| Predatory loans from banks, moneylenders | Zero interest microloans |
-| Patchy maintenance of accounts | Automatic maintenance of fault-tolerant, decentralized ledger |
-| Certain groups (women, dalits) not allowed into groups | Anonymity on the network ensures equality for all|
-| Need for centralized organisational leadership | Auto-governance by solidity smart contract |                                         | Risk of non-repayment of loans is high | Risk is mitigated by introducing peer-pressure on the blockchain (main innovation) |
-| Possibility of corruption inside group | All transactions are open and transparent |
-| [Rural people find bank braches forbidding](https://thewire.in/171614/microfinance-bandhan-public-sector-banks/) | Intuitive single-page web-interface for all transactions |
+
+
+
 
 
 #### Peer Pressure on the blockchain (main innovation)
