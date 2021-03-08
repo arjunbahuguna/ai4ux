@@ -29,9 +29,12 @@ The users' feedback has been sourced from Twitter & App store reviews for this p
 We use multiple analysis techniques from natural language processing (NLP) and supervised machine learning to do analysis on user tweets. Some of these techniques include:
 #### 1. Sentiment analysis
 Gain a measure of user satisfaction from the tweet by algorithmically measuring how positive or negative the sentiment of the tweet is.
-#### 2. 
-#### 3. 
-#### 4. 
+#### 2. n-gram analysis
+Tokenization and frequency analysis of text data from tweets and user reviews.
+#### 3. Measuring UX success accroding to Framework
+Use the 7-prong framework to determine the quality of the UX, from user feedback.
+#### 4. Aid strategy
+Prioritze which design bugs to fix first by visualizing frequency of particular complaints in user feedback.
 
 ## The Insights
 
@@ -54,22 +57,19 @@ Gain a measure of user satisfaction from the tweet by algorithmically measuring 
 
 ### Architecture Modules
 #### 1. Collect User Feedback from tweets
-Initial members of the network call add_member to add a new person to the network, once they've validated his identity using Aadhar.
 #### 2. Analyze feedback to evaluate UX
-The newly added member must deposit money to the pool to be able to request a loan.
 #### 3. Gain insights in the form of graphs
-
 #### 4. Suggest changes in UX according to user feedback
 
 
 ### Tech Stack
-1. 
-2.   
-3. 
-4. MetaMask
-5. Remix IDE
-6. Web3.js
-7. Aadhar-validator.js
+1. Jupyter notebook & Colab
+2. Data analysis: pandas, numpy
+3. Data visualization: seaboarn, matplotlib
+4. Natural Language Processing: nltk, textblob, wordcloud
+5. Twitter API
+6. MongoDB
+7. Adobe XD
 
 ### The Team
 1. Daksha Dixit
