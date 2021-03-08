@@ -51,10 +51,6 @@ Prioritze which design bugs to fix first by visualizing frequency of particular 
 <img src="https://raw.githubusercontent.com/standard-deviant/ai4ux/main/WordCloud.jpeg">
 
 
-## Architecture and Tech-stack
-![System Architecture](https://raw.githubusercontent.com/jangidkrishna/0xSHG/master/architecture.jpg)
-
-
 ### Architecture Modules
 #### 1. Collect User Feedback from tweets
 #### 2. Analyze feedback to evaluate UX
