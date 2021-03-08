@@ -58,6 +58,12 @@ Prioritze which design bugs to fix first by visualizing frequency of particular 
 #### 4. Suggest changes in UX according to user feedback
 
 
+## How to run: Files & What they do
+### Collect Tweets: Collected using calls to the Twitter API in listen_tweets.py. Sample data has also been provided.
+### Analysis: Run analysis on collected tweets using AI4UX.ipynb
+### Insight: Run visual analysis to gain insights into your users' experience by running AI4UX.ipynb
+
+
 ### Tech Stack
 1. Jupyter notebook & Colab
 2. Data analysis: pandas, numpy
