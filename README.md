@@ -35,9 +35,17 @@ Gain a measure of user satisfaction from the tweet by algorithmically measuring 
 
 ## The Insights
 
+### Frequently Occuring Words
+<img src="https://raw.githubusercontent.com/standard-deviant/ai4ux/main/MostFrequentWords.jpeg">
 
+### Negative Sentiment Distribution
+<img src="https://raw.githubusercontent.com/standard-deviant/ai4ux/main/NegativeSntiment.jpeg">
 
+### Positive Sentiment Distribution
+<img src="https://raw.githubusercontent.com/standard-deviant/ai4ux/main/PositiveSentiment.jpeg">
 
+### Word Cloud for representing most used words
+<img src="https://raw.githubusercontent.com/standard-deviant/ai4ux/main/WordCloud.jpeg">
 
 
 ## Architecture and Tech-stack
