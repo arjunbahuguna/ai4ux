@@ -1,6 +1,6 @@
 1. [Link to demo-video](https://wetransfer.com/downloads/d30e575ed297db77329d92ad95771ced20210307215448/8a2a49)<br>
 2. [Link to XD website design](https://xd.adobe.com/view/5789e5de-1b5b-4805-99c5-45a0700862df-02da/?fullscreen)
-3. 
+
 ## Commentree (Evaluate your UX through actual users!)
 
 ### The Problem
