@@ -10,10 +10,10 @@ MONGO_HOST= 'mongodb://localhost/twitterdb'  # assuming you have mongoDB install
 WORDS = ['#customerservice', 'Flipkart', 'bad UI', 'bad UX', 'late']
 
 
-CONSUMER_KEY = "I8upfbITnCVOs94KREwFrcArJ"
-CONSUMER_SECRET = "0LEqFasA5GsWS79fM7TH1bjlO0url4C53FY2rKVPm2iYs54E8F"
-ACCESS_TOKEN = "797534562846998528-WToG9DXFmKVmXJbfMDIbjY1HvcmEYub"
-ACCESS_TOKEN_SECRET = "CiMNr0qVLPHvzT9ujZ3FA5vnEToptwv1DduaJBU2JtHET"
+CONSUMER_KEY = ""
+CONSUMER_SECRET = ""
+ACCESS_TOKEN = ""
+ACCESS_TOKEN_SECRET = ""
 
 
 #csv_out = open('tweets_out_ASCII.csv', mode='w') #opens csv file
