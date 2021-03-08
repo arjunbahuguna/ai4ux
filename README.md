@@ -16,7 +16,15 @@ We use the below framework to measure our product's UX from online reviews poste
 
 ## Process (UML diagram - flow of data across system)
 ## The Data
+The users' feedback has been sourced from Twitter & App store reviews for this prototype, but can be sourced from any social media or app platform we want. The text data from the tweets contain words that can trigger one of the seven prongs of our UX framework. By mapping the text data of the tweet to our framework, we can evaluate the UX of the product.
+
 ## The Analysis
+We use multiple analysis techniques from natural language processing (NLP) and supervised machine learning to do analysis on user tweets. Some of these techniques include:
+### 1. Sentiment analysis: Gain a measure of user satisfaction from the tweet by algorithmically measuring how positive or negative the sentiment of the tweet is.
+### 2. 
+### 3. 
+### 4. 
+
 ## The Insights
 
 ## Impact to Society of Solution:
