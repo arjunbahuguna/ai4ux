@@ -54,16 +54,14 @@ This is made possible by removing traditional banks from the equation. The group
 
 
 ### Architecture Modules
-##### 1. Validation
+##### 1. Collect User Feedback from tweets
 Initial members of the network call add_member to add a new person to the network, once they've validated his identity using Aadhar.
-##### 2. Deposit Money
+##### 2. Analyze feedback to evaluate UX
 The newly added member must deposit money to the pool to be able to request a loan.
-##### 3. Request Loan
+##### 3. Suggest changes in UX
 A person can request a loan if 
   1. He has been validated by 4 existing members
   2. He has deposited some amount of money
-##### 4. Receive Loan
-All loan request are sorted in increasing order of loan-request amount. Every three months, the money in pool is used to fullfill the maximum number of loan-requests. Any reserve wealth in the pool is re-distributed back to the network. The is the function of pay_loan.
 
 ### Tech Stack
 1. Ethereum smart constracts (in solidity)
