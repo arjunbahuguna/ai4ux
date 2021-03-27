@@ -78,4 +78,3 @@ Prioritze which design bugs to fix first by visualizing frequency of particular 
 2. Simran Singh
 3. Arnav Ajay
 4. Arjun Bahuguna
-5. Poojita Sure
